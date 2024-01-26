@@ -1,14 +1,6 @@
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/w3.css">
-<style>
-	/* Tablet */
-@media (max-width: 760px) {
-	html {
-	  font-size: 60%;
-	}
-}
-</style>
 <body>
      <div class="w3-container w3-display middle">
         <img src="css/bmth_logo.jpg" alt="" height="200px" width="1505px" class="w3-animate-top" />
